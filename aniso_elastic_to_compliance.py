@@ -8,6 +8,15 @@ import math
 from math import sqrt
 
 '''
+The code is for PhD research purposes
+
+Author: Praveenkumar Hiremath
+Email: praveenkumar.hiremath@mek.lth.se (Email at the University)
+       praveenkumar.hiremath2911@gmail.com (Private email)
+'''
+
+
+'''
 # Enter crack propagation and crack plane directions
 #Crack propagation direction
 o=-1
